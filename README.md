@@ -10,4 +10,21 @@ I'll show you the basics, then it will become very clear just why H-Bridge contr
 
 In my example, I'll show motor speed control of a 2WD buggy that I'm building (just for fun) which makes it a doddle (UK-speak for very easy) to control the speed of the wheels. We'll see more of this buggy in a future video too, but this video is all about motor speed control.
 
-Demo sketch included in the GitHub along with anything else I can find that might be useful! 
+Where I got my L298N H-Bridge controllers from (OMG not an Asian warehouse):
+https://www.amazon.co.uk/gp/product/B01NBW2JBZ
+
+But if you did want to buy from the Far East (so cheap!)
+https://www.aliexpress.com/item/L298N-DC-and-stepper-Motor-dual-drive-module-for-for-Ar/1859068302.html
+
+Demo sketch included in this GitHub along with anything else I can find that might be useful!
+
+
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
+
+My channel is here:
+------------------------------------------------------------------
+https://www.youtube.com/c/RalphBacon
+------------------------------------------------------------------ 
+How can I remember this? Memory tip: "See" Ralph Bacon, geddit?
+[You can also use this link: https://www.youtube.com/RalphBacon]
