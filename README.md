@@ -1,7 +1,7 @@
 # L298N H-Bridge Motor Speed Controller
 Use an Arduino (or any microcontroller) to control the speed (and direction) of a motor
 
-# See video #102 at https://www.youtueb.com/RalphBacon
+# See video #102 at https://www.youtube.com/RalphBacon
 (Direct link: https://youtu.be/iPPV1bAeU2I)
 
 Do you want to control that robot arm with a motor? Or a buggy? Or a model tank? Or a lathe? In fact, anything that uses a moderately low-power voltage source (up to 30v) can be easily controlled by the ubiquitous H-Bridge motor controller - but how does it work?
