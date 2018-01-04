@@ -16,6 +16,9 @@ https://www.amazon.co.uk/gp/product/B01NBW2JBZ
 But if you did want to buy from the Far East (so cheap!)  
 https://www.aliexpress.com/item/L298N-DC-and-stepper-Motor-dual-drive-module-for-for-Ar/1859068302.html
 
+The 2WD Buggy I'm using in the demo (we'll see more this in a future video!)  
+https://www.banggood.com/2WD-Smart-Robot-Car-Chassis-KitSpeed-encoder-Battery-Box-Arduino-2-motor-148-p-1146124.html
+
 Demo sketch included in this GitHub along with anything else I can find that might be useful!
 
 
